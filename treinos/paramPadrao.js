@@ -29,4 +29,4 @@ function soma2(a = 1, b = 1, c = 1) {
 }
 
 console.log(soma2(2, 9))
-//output 12
+//output 12 
