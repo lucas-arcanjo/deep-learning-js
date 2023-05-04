@@ -1,0 +1,1 @@
+Math.random() * (max - min) + min
