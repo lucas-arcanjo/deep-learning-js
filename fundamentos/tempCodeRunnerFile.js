@@ -1,1 +1,1 @@
-Math.random() * (max - min) + min
+.bind({ nome: 'Maria' });
